@@ -3,7 +3,7 @@
 <ul>
 <li>🍁 I am a third year undergrad pursuing Bachelor in Information Technology from Mumbai University</li>
 <li>❄️ Currently learning React </li>
-<li>🌱 2021 Goal : Start Contributing to Open Source</li>
+<li>🌱 2022 Goal : Start Contributing to Open Source</li>
 <li>📫 Reach me at : <a href="mailto:priyannayak100@gmail.com">priyannayak100@gmail.com</a> </li>
 <li>💬 Ask me about HTML and CSS
 </ul>
