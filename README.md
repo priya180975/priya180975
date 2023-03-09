@@ -1,11 +1,9 @@
 <h2> Hi there 👋, I am Priya Nayak </h2>
 
 <ul>
-<li>🍁 I am a third year undergrad pursuing Bachelor in Information Technology from Mumbai University</li>
-<li>❄️ Currently learning React </li>
-<li>🌱 2022 Goal : Start Contributing to Open Source</li>
+<li>🍁 I have a good foundation of frontend web development and a passion for creating user friendly and efficient application</li>
 <li>📫 Reach me at : <a href="mailto:priyannayak100@gmail.com">priyannayak100@gmail.com</a> </li>
-<li>💬 Ask me about HTML and CSS
+<li>💬 Ask me about Frontend Web Development
 </ul>
 
 <h2>Tech Stack</h2>
@@ -13,9 +11,11 @@
     <img src="https://img.shields.io/badge/HTML-f7c5c5?style=for-the-badge&logo=html5">
     <img src="https://img.shields.io/badge/CSS3-f6f7c5?style=for-the-badge&logo=css3&logoColor=ffdc6b">
     <img src="https://img.shields.io/badge/JAVASCRIPT-e7d7a1?style=for-the-badge&logo=javascript">
+    <img src="https://img.shields.io/badge/JQuery-a2e7de?style=for-the-badge&logo=jquery">
     <img src="https://img.shields.io/badge/SASS-e7a1d8?style=for-the-badge&logo=sass">
     <img src="https://img.shields.io/badge/PYTHON-a1d7e7?style=for-the-badge&logo=python">
     <img src="https://img.shields.io/badge/C++-a1e7a1?style=for-the-badge&logo=">
+    <img src="https://img.shields.io/badge/JAVA-d1d9e7?style=for-the-badge&logo=java">
     <img src="https://img.shields.io/badge/PHP-a1b4e7?style=for-the-badge&logo=php">
     <img src="https://img.shields.io/badge/MYSQL-a1e7de?style=for-the-badge&logo=mysql">
 </div>
